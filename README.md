@@ -12,5 +12,5 @@ A Java-based online bookstore system that manages different types of books: pape
 -   Remove outdated books
 
 ### Termenal output
-![Sample Receipt](./images/Screenshot 2025-07-08 210202.png)
-![Sample Receipt2](./images/Screenshot 2025-07-08 210210.png)
+![Sample Receipt](./images/Screenshot1.png)
+![Sample Receipt2](./images/Screenshot2.png)
